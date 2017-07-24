@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Vælkomin til mína síðu sum nok fer at verða awsome einaferð! 
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -8,13 +8,10 @@
 # Site settings
 title: Dánjal's Site in develepment.
 email: danjalakraberg@gmail.com
-bara ein byrjan at gera eina websíðu og prøva míni skils av
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  Leftalone
 
 # Build settings
 markdown: kramdown
